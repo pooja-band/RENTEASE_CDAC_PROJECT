@@ -1,0 +1,16 @@
+package com.rentease.entities;
+
+public enum Categories {
+
+    ELECTRONICS1,
+    ELECTRONICS2,
+    ELECTRONICS3,
+    ELECTRONICS4,
+    ELECTRONICS5,
+    ELECTRONICS6,
+    ELECTRONICS7,
+    ELECTRONICS8,
+    ELECTRONICS9,
+    ELECTRONICS10
+
+}
